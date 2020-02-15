@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OnlineExamSSM:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineExamSSM_Web</output-path>
+    <root id="archive" name="OnlineExamSSM_Web.war">
+      <element id="artifact" artifact-name="OnlineExamSSM:Web exploded" />
+    </root>
+  </artifact>
+</component>
